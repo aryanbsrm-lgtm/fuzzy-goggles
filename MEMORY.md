@@ -377,3 +377,43 @@ systemctl restart consensusbridge
 # Rebuild TypeScript locally & deploy
 npm run build && rsync -avz dist/ root@200.234.32.227:/root/consensus-bridge/dist/ && ssh root@200.234.32.227 "systemctl restart consensusbridge"
 ```
+
+---
+
+## 16. VPS Cancellation, Architecture Pivot & Free Cloud Deployment (Nov 2026)
+
+### 16.1 VPS Cancellation & Scope Simplification
+- Due to the cancellation of the original Linux VPS (`200.234.32.227`), the architecture was pivoted to support **100% free cloud hosting** (e.g. Render, Koyeb, Railway, or Oracle Cloud Always Free).
+- **Scope Decision**: Outbound WhatsApp client (`@whiskeysockets/baileys`) and Telegram bot (`grammy`) broadcasting were completely retired. The system now functions exclusively as a **headless live result scraper, high-performance Result REST API, and informative website (`khabarline.site`)**.
+- **Stateless & Resilient**: Because WhatsApp session files (`auth_info_baileys/`) are no longer required, the entire system is stateless. On boot, the scraper fetches the full live board from `https://dpboss.boston` within 2–3 seconds, eliminating persistent disk dependencies on free cloud tiers.
+
+### 16.2 Chart History Independence
+- Confirmed that all 10-year historical Jodi and Panel records (2012–2026) operate independently of WhatsApp.
+- `ChartService` (`src/services/chartService.ts`) manages 58 pre-cached chart datasets in `data/charts_cache/` with automatic on-demand upstream scraping fallback from `https://dpboss.boston` and `https://bharatmatka.com`.
+- Today's live declared results are dynamically appended to today's active column via `KhabarlineStore.appendTodayChartResult()`.
+
+### 16.3 Production Runner & Environment Defaults
+- `src/scripts/startLocalPreview.ts` updated to serve as the unified standalone production entry point:
+  - Dynamically binds `PORT` (`process.env.PORT || 8080`).
+  - Auto-loads master API keys from `process.env.API_HASH_KEY` or `config.json`.
+  - Master Production Hash Key: `124f2c24975404e3384952b0ede054c63c4d5bcd1f1a29158d9583fc66deae85`.
+  - Configured Upstream: `DPBOSS_URL` (`https://dpboss.boston/`, 15-second polling cycle).
+- `package.json` `"start"` script updated:
+  ```json
+  "start": "node dist/scripts/startLocalPreview.js",
+  "start:build": "npm run build && node dist/scripts/startLocalPreview.js"
+  ```
+
+### 16.4 GitHub Remote & Render Cloud Deployment
+- **GitHub Repository**: `https://github.com/aryanbsrm-lgtm/fuzzy-goggles` (branch: `main`).
+- **Render Web Service Configuration**:
+  - Service Type: **Web Service** (Free Eco tier, $0/month, 512 MB RAM).
+  - Build Command: `npm run build`
+  - Start Command: `npm start`
+  - Environment Variables: `NODE_ENV=production`, `API_HASH_KEY=124f2c24975404e3384952b0ede054c63c4d5bcd1f1a29158d9583fc66deae85`.
+  - 24/7 Keep-Alive: UptimeRobot ping set on a 5-minute interval to prevent Render free-tier idle spin-down.
+
+### 16.5 Developer Handover Package
+- **PDF Documentation**: Generated `Developer_Handover_Khabarline.pdf` in project root with full architecture, cURL specifications, and deployment guides.
+- **Standalone Distribution Zip**: Packaged lightweight `khabarline-code.zip` (778 KB) on Desktop containing all clean source code, pre-cached charts, and configuration for direct developer sharing.
+
