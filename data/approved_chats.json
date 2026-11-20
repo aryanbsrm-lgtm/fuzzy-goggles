@@ -1,0 +1,45 @@
+{
+  "approvedChats": {
+    "-1004416894670": {
+      "chatId": "-1004416894670",
+      "title": "result juggler",
+      "type": "channel",
+      "approvedAt": 1789715940548,
+      "approvedBy": "SYSTEM_CONFIG",
+      "botToken": "8925702786:AAGAyAhW1EsROuFHe98ijHjQuE1RKuadWTg",
+      "botUsername": "impactcreatorpersonalbot",
+      "botName": "Impact Creator"
+    },
+    "-1004451229868": {
+      "chatId": "-1004451229868",
+      "title": "Telegram Matka India Official & Trusted Telegram Bookie",
+      "type": "supergroup",
+      "approvedAt": 1789762310000,
+      "approvedBy": "ADMIN_CONFIG",
+      "botToken": "8885064215:AAFziPv4CbYeH6pkOy5QpPQLec6TEv0MHGY",
+      "botUsername": "HGTEAM02BOT",
+      "botName": "BROADCAST_BOT",
+      "customHeader": "⚡ <b>TELEGRAM MATKA — FASTEST RESULT</b> ⚡\n👑 <i>India's Most Trusted & Original Telegram Bookie</i> 👑\n━━━━━━━━━━━━━━━━━━━━━━━━━",
+      "customTemplate": "🎯 <b>Market:</b> {market}\n📊 <b>{session} Result:</b> {value}\n🏆 <b>{session} Winners:</b> 0\n💰 <b>{session} Payouts:</b> ₹0.00",
+      "customFooter": "━━━━━━━━━━━━━━━━━━━━━━━━━\n🎉 <b>Round Settled!</b> Winnings credited instantly to player wallets.\n\n🎰 <b>Play & Win Big with Instant UPI Cashouts:</b>\n━━━━━━━━━━━━━━━━━━━━━━━━━\n⭐ <i>100% Trusted • Fast Payouts • 24x7 Live Support</i> ⭐",
+      "buttonText": "👉 Click Here to Play Now (@TM_Player_000001_bot)",
+      "buttonUrl": "https://t.me/TM_Player_000001_bot"
+    },
+    "-1004372351548": {
+      "chatId": "-1004372351548",
+      "title": "PLAY ONLINE SATTA MATKA INDIA'S TRUSTED & OFFICIAL APPLICATION",
+      "type": "supergroup",
+      "approvedAt": 1789719185248,
+      "approvedBy": "ADMIN_CONFIG",
+      "botToken": "8759291834:AAHtkfWxwzmWuYizw5Rrgaohyv_wjVgMBe8",
+      "botUsername": "RESULTPOSMATKAbot",
+      "botName": "POSMATKA",
+      "customHeader": "🌟 <b>PLAY ONLINE SATTA MATKA INDIA'S TRUSTED & OFFICIAL APPLICATION</b> 🌟",
+      "customTemplate": "🎉 <b>LIVE RESULT UPDATE</b> 🎉\n🗓 <b>Date:</b> {date}\n\n🎲 <b>{market}</b> 🎲\n👉 <b>{value}</b> 👈",
+      "customFooter": "🏆 <b>PLAY ONLINE SATTA MATKA INDIA'S TRUSTED & OFFICIAL APPLICATION</b> 🏆\n\n🔗 <b>Register & Play Now ⬇️⬇️</b>",
+      "buttonText": "🔗 Register & Play Now ⬇️⬇️",
+      "buttonUrl": "https://www.posmatka.com/login?tab=register&ref=89733"
+    }
+  },
+  "pendingRequests": {}
+}

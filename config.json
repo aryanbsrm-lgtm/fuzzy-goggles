@@ -1,0 +1,91 @@
+{
+  "whatsapp": {
+    "authDir": "./auth_info_baileys",
+    "sourceGroups": [
+      "120363423323980137@newsletter",
+      "120363415048870536@g.us",
+      "120363323865653524@g.us",
+      "120363420755219338@newsletter",
+      "120363404509728269@g.us"
+    ],
+    "groupAliases": {
+      "120363423323980137@newsletter": "PRAKASH FAST KHABAR",
+      "120363415048870536@g.us": "PRAKASH FAST RESULTS",
+      "120363323865653524@g.us": "JUNGLEE RUMMY 5",
+      "120363420755219338@newsletter": "LIVE KHABAR",
+      "120363404509728269@g.us": "KHABAR GROUP 1"
+    },
+    "ownerMapping": {
+      "120363423323980137@newsletter": "owner_prakash",
+      "120363415048870536@g.us": "owner_prakash",
+      "120363323865653524@g.us": "owner_prakash",
+      "120363420755219338@newsletter": "owner_live_khabar",
+      "120363404509728269@g.us": "owner_live_khabar"
+    },
+    "destinationGroups": [
+      "120363400760897120@g.us"
+    ]
+  },
+  "consensus": {
+    "minMatches": 2,
+    "timeWindowSeconds": 300,
+    "dedupTtlSeconds": 1800
+  },
+  "parser": {
+    "mode": "raw_normalized",
+    "regexPattern": "(?:code|id|val)[:\\s]*([A-Za-z0-9\\-_/ ]+)",
+    "resultGroupIndex": 1,
+    "roundGroupIndex": null,
+    "prefix": "UPDATE:",
+    "caseSensitive": false
+  },
+  "telegram": {
+    "customHeader": "🔔 <b>CONFIRMED UPDATE</b>",
+    "includeMetadata": true
+  },
+  "sheets": {
+    "enabled": false,
+    "sheetUrl": "",
+    "sheetTabName": "",
+    "pollIntervalSeconds": 60,
+    "ownerId": "owner_web_scraper",
+    "autoVerify": false,
+    "columnMapping": {
+      "marketName": "Market",
+      "open": "Open",
+      "close": "Close",
+      "jodi": "Jodi",
+      "fullResult": "Result"
+    }
+  },
+  "scraper": {
+    "enabled": true,
+    "triggerMode": "auto",
+    "cliCommand": "/opt/scraper-hub/.venv/bin/python -c \"import app; app.run_job(2)\"",
+    "workingDir": "/opt/scraper-hub",
+    "httpUrl": "http://127.0.0.1:8094/api/job/2/run",
+    "debounceSeconds": 10,
+    "autoTriggerOnUnverified": true
+  },
+  "dashboard": {
+    "enabled": true,
+    "port": 8095,
+    "password": ":Az|l)|J0NY|.cU:"
+  },
+  "khabarline": {
+    "enabled": true,
+    "port": 8080,
+    "domain": "khabarline.site",
+    "adminPassword": ":Az|l)|J0NY|.cU:"
+  },
+  "api": {
+    "enabled": true,
+    "hashKey": "124f2c24975404e3384952b0ede054c63c4d5bcd1f1a29158d9583fc66deae85",
+    "allowedHashKeys": [
+      "124f2c24975404e3384952b0ede054c63c4d5bcd1f1a29158d9583fc66deae85",
+      "result_bot_secret_2026",
+      "partner_key_alpha",
+      "partner_key_beta"
+    ]
+  }
+}

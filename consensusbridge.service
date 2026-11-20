@@ -1,0 +1,18 @@
+[Unit]
+Description=Result Bot Consensus Bridge & Khabarline Web Engine
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/consensus-bridge
+ExecStart=/usr/bin/node dist/index.js
+Restart=always
+RestartSec=5
+Environment=NODE_ENV=production
+Environment=TZ=Asia/Kolkata
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

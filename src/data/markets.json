@@ -1,0 +1,1811 @@
+[
+  {
+    "order": 1,
+    "name": "KALYAN MORNING",
+    "slug": "kalyan-morning",
+    "openTime": "11:40 AM",
+    "closeTime": "12:40 PM",
+    "highlight": true,
+    "value": "239-4"
+  },
+  {
+    "order": 2,
+    "name": "MILAN MORNING",
+    "slug": "milan-morning",
+    "openTime": "10:30 AM",
+    "closeTime": "11:30 AM",
+    "highlight": false,
+    "value": "340-75-140"
+  },
+  {
+    "order": 3,
+    "name": "SRIDEVI",
+    "slug": "sridevi",
+    "openTime": "11:35 AM",
+    "closeTime": "12:35 PM",
+    "highlight": false,
+    "value": "370-0"
+  },
+  {
+    "order": 4,
+    "name": "MAIN BAZAR MORNING",
+    "slug": "main-bazar-morning",
+    "openTime": "11:15 AM",
+    "closeTime": "12:15 PM",
+    "highlight": false,
+    "value": "170-8"
+  },
+  {
+    "order": 5,
+    "name": "MADHURI",
+    "slug": "madhuri",
+    "openTime": "11:45 AM",
+    "closeTime": "12:45 PM",
+    "highlight": false,
+    "value": "678-1"
+  },
+  {
+    "order": 6,
+    "name": "SRIDEVI MORNING",
+    "slug": "sridevi-morning",
+    "openTime": "10:10 AM",
+    "closeTime": "11:10 AM",
+    "highlight": false,
+    "value": "236-11-470"
+  },
+  {
+    "order": 7,
+    "name": "MAHARANI",
+    "slug": "maharani",
+    "openTime": "12:15 PM",
+    "closeTime": "02:15 PM",
+    "highlight": false,
+    "value": "458-70-145"
+  },
+  {
+    "order": 8,
+    "name": "KARNATAKA DAY",
+    "slug": "karnataka-day",
+    "openTime": "10:00 AM",
+    "closeTime": "11:00 AM",
+    "highlight": true,
+    "value": "570-28-134"
+  },
+  {
+    "order": 9,
+    "name": "TIME BAZAR MORNING",
+    "slug": "time-bazar-morning",
+    "openTime": "11:10 AM",
+    "closeTime": "12:10 PM",
+    "highlight": false,
+    "value": "130-48-134"
+  },
+  {
+    "order": 10,
+    "name": "MAIN SRIDEVI DAY",
+    "slug": "main-sridevi-day",
+    "openTime": "01:05 PM",
+    "closeTime": "02:05 PM",
+    "highlight": false,
+    "value": "136-02-480"
+  },
+  {
+    "order": 11,
+    "name": "TIME BAZAR",
+    "slug": "time-bazar",
+    "openTime": "01:00 PM",
+    "closeTime": "02:00 PM",
+    "highlight": false,
+    "value": "566-74-257"
+  },
+  {
+    "order": 12,
+    "name": "TARA MUMBAI DAY",
+    "slug": "tara-mumbai-day",
+    "openTime": "01:35 PM",
+    "closeTime": "03:00 PM",
+    "highlight": false,
+    "value": "137-13-247"
+  },
+  {
+    "order": 13,
+    "name": "PRABHAT",
+    "slug": "prabhat",
+    "openTime": "01:25 PM",
+    "closeTime": "03:05 PM",
+    "highlight": true,
+    "value": "390-23-670"
+  },
+  {
+    "order": 14,
+    "name": "DIAMOND",
+    "slug": "diamond",
+    "openTime": "01:30 PM",
+    "closeTime": "03:00 PM",
+    "highlight": false,
+    "value": "580-30-569"
+  },
+  {
+    "order": 15,
+    "name": "TIME BAZAR DAY",
+    "slug": "time-bazar-day",
+    "openTime": "02:45 PM",
+    "closeTime": "04:45 PM",
+    "highlight": false,
+    "value": "479-07-250"
+  },
+  {
+    "order": 16,
+    "name": "MILAN DAY",
+    "slug": "milan-day",
+    "openTime": "03:00 PM",
+    "closeTime": "05:00 PM",
+    "highlight": false,
+    "value": "379-94-789"
+  },
+  {
+    "order": 17,
+    "name": "MAIN BAZAR DAY",
+    "slug": "main-bazar-day",
+    "openTime": "03:35 PM",
+    "closeTime": "05:35 PM",
+    "highlight": false,
+    "value": "120-36-169"
+  },
+  {
+    "order": 18,
+    "name": "PUNA BAZAR",
+    "slug": "puna-bazar",
+    "openTime": "01:30 PM",
+    "closeTime": "03:30 PM",
+    "highlight": false,
+    "value": "147-28-170"
+  },
+  {
+    "order": 19,
+    "name": "MUMBAI MORNING",
+    "slug": "mumbai-morning",
+    "openTime": "01:40 PM",
+    "closeTime": "02:40 PM",
+    "highlight": false,
+    "value": "567-80-145"
+  },
+  {
+    "order": 20,
+    "name": "NEW TIME BAZAR",
+    "slug": "new-time-bazar",
+    "openTime": "01:00 PM",
+    "closeTime": "02:00 PM",
+    "highlight": false,
+    "value": "450-91-128"
+  },
+  {
+    "order": 21,
+    "name": "KALYAN",
+    "slug": "kalyan",
+    "openTime": "04:35 PM",
+    "closeTime": "06:35 PM",
+    "highlight": true,
+    "value": "290-16-114"
+  },
+  {
+    "order": 22,
+    "name": "SRIDEVI NIGHT",
+    "slug": "sridevi-night",
+    "openTime": "07:15 PM",
+    "closeTime": "08:15 PM",
+    "highlight": false,
+    "value": "567-86-790"
+  },
+  {
+    "order": 23,
+    "name": "DIAMOND NIGHT",
+    "slug": "diamond-night",
+    "openTime": "08:00 PM",
+    "closeTime": "09:00 PM",
+    "highlight": false,
+    "value": "370-04-680"
+  },
+  {
+    "order": 24,
+    "name": "MADHURI NIGHT",
+    "slug": "madhuri-night",
+    "openTime": "06:45 PM",
+    "closeTime": "07:45 PM",
+    "highlight": false,
+    "value": "780-53-120"
+  },
+  {
+    "order": 25,
+    "name": "NIGHT TIME BAZAR",
+    "slug": "night-time-bazar",
+    "openTime": "08:57 PM",
+    "closeTime": "10:57 PM",
+    "highlight": false,
+    "value": "460-02-228"
+  },
+  {
+    "order": 26,
+    "name": "TARA MUMBAI NIGHT",
+    "slug": "tara-mumbai-night",
+    "openTime": "08:30 PM",
+    "closeTime": "10:30 PM",
+    "highlight": false,
+    "value": "490-38-260"
+  },
+  {
+    "order": 27,
+    "name": "MILAN NIGHT",
+    "slug": "milan-night",
+    "openTime": "09:10 PM",
+    "closeTime": "11:10 PM",
+    "highlight": false,
+    "value": "125-85-230"
+  },
+  {
+    "order": 28,
+    "name": "RAJDHANI NIGHT",
+    "slug": "rajdhani-night",
+    "openTime": "09:35 PM",
+    "closeTime": "11:45 PM",
+    "highlight": false,
+    "value": "150-60-280"
+  },
+  {
+    "order": 29,
+    "name": "MAIN BAZAR",
+    "slug": "main-bazar",
+    "openTime": "10:00 PM",
+    "closeTime": "12:10 AM",
+    "highlight": true,
+    "value": "570-24-158"
+  },
+  {
+    "order": 30,
+    "name": "MAIN SRIDEVI",
+    "slug": "main-sridevi",
+    "openTime": "11:45 AM",
+    "closeTime": "12:45 PM",
+    "highlight": false,
+    "value": "570-2"
+  },
+  {
+    "order": 31,
+    "name": "MAHARANI DAY",
+    "slug": "maharani-day",
+    "openTime": "05:15 PM",
+    "closeTime": "07:15 PM",
+    "highlight": false,
+    "value": "780-54-130"
+  },
+  {
+    "order": 32,
+    "name": "PAREL DAY",
+    "slug": "parel-day",
+    "openTime": "02:00 PM",
+    "closeTime": "04:00 PM",
+    "highlight": false,
+    "value": "360-97-890"
+  },
+  {
+    "order": 33,
+    "name": "BOMBAY DAY",
+    "slug": "bombay-day",
+    "openTime": "01:50 PM",
+    "closeTime": "02:50 PM",
+    "highlight": false,
+    "value": "189-80-569"
+  },
+  {
+    "order": 34,
+    "name": "KALYAN NIGHT",
+    "slug": "kalyan-night",
+    "openTime": "09:40 PM",
+    "closeTime": "11:40 PM",
+    "highlight": true,
+    "value": "190-00-127"
+  },
+  {
+    "order": 35,
+    "name": "MUMBAI NIGHT",
+    "slug": "mumbai-night",
+    "openTime": "08:45 PM",
+    "closeTime": "10:45 PM",
+    "highlight": false,
+    "value": "145-05-889"
+  },
+  {
+    "order": 36,
+    "name": "SUPREME MORNING",
+    "slug": "supreme-morning",
+    "openTime": "01:35 PM",
+    "closeTime": "02:35 PM",
+    "highlight": false,
+    "value": "190-06-240"
+  },
+  {
+    "order": 37,
+    "name": "SRIDEVI DAY",
+    "slug": "sridevi-day",
+    "openTime": "01:35 PM",
+    "closeTime": "02:35 PM",
+    "highlight": false,
+    "value": "236-17-359"
+  },
+  {
+    "order": 38,
+    "name": "PRABHAT NIGHT",
+    "slug": "prabhat-night",
+    "openTime": "08:20 PM",
+    "closeTime": "10:20 PM",
+    "highlight": false,
+    "value": "679-25-159"
+  },
+  {
+    "order": 39,
+    "name": "SUPER DAY",
+    "slug": "super-day",
+    "openTime": "01:10 PM",
+    "closeTime": "02:15 PM",
+    "highlight": false,
+    "value": "260-81-146"
+  },
+  {
+    "order": 40,
+    "name": "OLD MUMBAI",
+    "slug": "old-mumbai",
+    "openTime": "09:45 PM",
+    "closeTime": "11:30 PM",
+    "highlight": false,
+    "value": "480-25-249"
+  },
+  {
+    "order": 41,
+    "name": "OLD MAIN MUMBAI",
+    "slug": "old-main-mumbai",
+    "openTime": "09:35 PM",
+    "closeTime": "11:35 PM",
+    "highlight": true,
+    "value": "356-41-128"
+  },
+  {
+    "order": 42,
+    "name": "MADHUR MORNING",
+    "slug": "madhur-morning",
+    "openTime": "11:30 AM",
+    "closeTime": "12:30 PM",
+    "highlight": false,
+    "value": "266-4"
+  },
+  {
+    "order": 43,
+    "name": "MADHUR DAY",
+    "slug": "madhur-day",
+    "openTime": "01:30 PM",
+    "closeTime": "02:30 PM",
+    "highlight": false,
+    "value": "250-78-459"
+  },
+  {
+    "order": 44,
+    "name": "MADHUR NIGHT",
+    "slug": "madhur-night",
+    "openTime": "08:30 PM",
+    "closeTime": "10:30 PM",
+    "highlight": false,
+    "value": "177-53-445"
+  },
+  {
+    "order": 45,
+    "name": "SHRI DAY",
+    "slug": "shri-day",
+    "openTime": "11:15 AM",
+    "closeTime": "12:15 PM",
+    "highlight": false,
+    "value": "680-4"
+  },
+  {
+    "order": 46,
+    "name": "SHRI NIGHT",
+    "slug": "shri-night",
+    "openTime": "08:25 PM",
+    "closeTime": "10:25 PM",
+    "highlight": false,
+    "value": "278-76-457"
+  },
+  {
+    "order": 47,
+    "name": "RATAN KHATRI",
+    "slug": "ratan-khatri",
+    "openTime": "09:40 PM",
+    "closeTime": "11:40 PM",
+    "highlight": true,
+    "value": "467-72-390"
+  },
+  {
+    "order": 48,
+    "name": "WORLI MORNING",
+    "slug": "worli-morning",
+    "openTime": "12:05 PM",
+    "closeTime": "01:05 PM",
+    "highlight": false,
+    "value": "277-6"
+  },
+  {
+    "order": 49,
+    "name": "WORLI NIGHT",
+    "slug": "worli-night",
+    "openTime": "08:05 PM",
+    "closeTime": "09:05 PM",
+    "highlight": false,
+    "value": "155-12-147"
+  },
+  {
+    "order": 50,
+    "name": "MAHARANI NIGHT",
+    "slug": "maharani-night",
+    "openTime": "10:15 PM",
+    "closeTime": "12:15 AM",
+    "highlight": false,
+    "value": "600-66-367"
+  },
+  {
+    "order": 51,
+    "name": "JAY SHREE DAY",
+    "slug": "jay-shree-day",
+    "openTime": "11:21 AM",
+    "closeTime": "12:21 PM",
+    "highlight": false,
+    "value": "679-2"
+  },
+  {
+    "order": 52,
+    "name": "SRI DHANALAXMI",
+    "slug": "sri-dhanalaxmi",
+    "openTime": "12:00 PM",
+    "closeTime": "01:00 PM",
+    "highlight": false,
+    "value": "247-3"
+  },
+  {
+    "order": 53,
+    "name": "BOMBAY NIGHT",
+    "slug": "bombay-night",
+    "openTime": "09:35 PM",
+    "closeTime": "12:05 AM",
+    "highlight": true,
+    "value": "129-25-230"
+  },
+  {
+    "order": 54,
+    "name": "SUNDAY BAZAR",
+    "slug": "sunday-bazar",
+    "openTime": "12:30 PM",
+    "closeTime": "02:45 PM",
+    "highlight": false,
+    "value": "490-38-567"
+  },
+  {
+    "order": 55,
+    "name": "PADMAVATHI",
+    "slug": "padmavathi",
+    "openTime": "11:40 AM",
+    "closeTime": "12:40 PM",
+    "highlight": false,
+    "value": "230-5"
+  },
+  {
+    "order": 56,
+    "name": "PADMAVATHI NIGHT",
+    "slug": "padmavathi-night",
+    "openTime": "07:45 PM",
+    "closeTime": "08:45 PM",
+    "highlight": false,
+    "value": "378-82-237"
+  },
+  {
+    "order": 57,
+    "name": "MAIN RATAN",
+    "slug": "main-ratan",
+    "openTime": "09:30 PM",
+    "closeTime": "11:30 PM",
+    "highlight": false,
+    "value": "600-65-357"
+  },
+  {
+    "order": 58,
+    "name": "RATAN GOLD DAY",
+    "slug": "ratan-gold-day",
+    "openTime": "12:20 PM",
+    "closeTime": "02:00 PM",
+    "highlight": false,
+    "value": "259-6"
+  },
+  {
+    "order": 59,
+    "name": "RATAN GOLD NIGHT",
+    "slug": "ratan-gold-night",
+    "openTime": "09:40 PM",
+    "closeTime": "11:40 PM",
+    "highlight": false,
+    "value": "139-30-299"
+  },
+  {
+    "order": 60,
+    "name": "BALAJI",
+    "slug": "balaji",
+    "openTime": "11:20 AM",
+    "closeTime": "12:20 PM",
+    "highlight": true,
+    "value": "236-1"
+  },
+  {
+    "order": 61,
+    "name": "KAMDHENU",
+    "slug": "kamdhenu",
+    "openTime": "03:40 PM",
+    "closeTime": "05:40 PM",
+    "highlight": false,
+    "value": "790-67-124"
+  },
+  {
+    "order": 62,
+    "name": "KAMDHENU NIGHT",
+    "slug": "kamdhenu-night",
+    "openTime": "07:45 PM",
+    "closeTime": "08:45 PM",
+    "highlight": false,
+    "value": "244-06-880"
+  },
+  {
+    "order": 63,
+    "name": "SUPER NIGHT",
+    "slug": "super-night",
+    "openTime": "09:35 PM",
+    "closeTime": "11:35 PM",
+    "highlight": false,
+    "value": "469-93-148"
+  },
+  {
+    "order": 64,
+    "name": "NEW KALYAN DAY",
+    "slug": "new-kalyan-day",
+    "openTime": "02:15 PM",
+    "closeTime": "04:15 PM",
+    "highlight": false,
+    "value": "220-44-239"
+  },
+  {
+    "order": 65,
+    "name": "LUCKY DAY",
+    "slug": "lucky-day",
+    "openTime": "12:45 PM",
+    "closeTime": "02:05 PM",
+    "highlight": false,
+    "value": "135-97-179"
+  },
+  {
+    "order": 66,
+    "name": "KALYAN SRIDEVI",
+    "slug": "kalyan-sridevi",
+    "openTime": "11:30 AM",
+    "closeTime": "12:30 PM",
+    "highlight": false,
+    "value": "477-8"
+  },
+  {
+    "order": 67,
+    "name": "KALYAN SRIDEVI NIGHT",
+    "slug": "kalyan-sridevi-night",
+    "openTime": "07:30 PM",
+    "closeTime": "08:30 PM",
+    "highlight": false,
+    "value": "234-93-148"
+  },
+  {
+    "order": 68,
+    "name": "CENTRAL MUMBAI",
+    "slug": "central-mumbai",
+    "openTime": "02:00 PM",
+    "closeTime": "03:00 PM",
+    "highlight": false,
+    "value": "349-63-256"
+  },
+  {
+    "order": 69,
+    "name": "MUMBAI DAY",
+    "slug": "mumbai-day",
+    "openTime": "02:05 PM",
+    "closeTime": "03:05 PM",
+    "highlight": false,
+    "value": "399-12-129"
+  },
+  {
+    "order": 70,
+    "name": "KOHINOOR DAY",
+    "slug": "kohinoor-day",
+    "openTime": "02:35 PM",
+    "closeTime": "04:35 PM",
+    "highlight": false,
+    "value": "179-76-880"
+  },
+  {
+    "order": 71,
+    "name": "KOHINOOR NIGHT",
+    "slug": "kohinoor-night",
+    "openTime": "08:35 PM",
+    "closeTime": "10:35 PM",
+    "highlight": false,
+    "value": "239-48-459"
+  },
+  {
+    "order": 72,
+    "name": "NEW TARA MUMBAI DAY",
+    "slug": "new-tara-mumbai-day",
+    "openTime": "01:45 PM",
+    "closeTime": "03:10 PM",
+    "highlight": false,
+    "value": "225-93-779"
+  },
+  {
+    "order": 73,
+    "name": "STAR TARA MORNING",
+    "slug": "star-tara-morning",
+    "openTime": "10:10 AM",
+    "closeTime": "11:10 AM",
+    "highlight": false,
+    "value": "127-00-280"
+  },
+  {
+    "order": 74,
+    "name": "STAR TARA DAY",
+    "slug": "star-tara-day",
+    "openTime": "02:20 PM",
+    "closeTime": "03:20 PM",
+    "highlight": false,
+    "value": "334-06-169"
+  },
+  {
+    "order": 75,
+    "name": "STAR TARA NIGHT",
+    "slug": "star-tara-night",
+    "openTime": "07:20 PM",
+    "closeTime": "08:20 PM",
+    "highlight": false,
+    "value": "137-11-588"
+  },
+  {
+    "order": 76,
+    "name": "PUNA NIGHT  [ main ]",
+    "slug": "puna-night-main",
+    "openTime": "11:00 PM",
+    "closeTime": "01:50 AM",
+    "highlight": false,
+    "value": "240-63-788"
+  },
+  {
+    "order": 77,
+    "name": "SUPREME DAY",
+    "slug": "supreme-day",
+    "openTime": "03:35 PM",
+    "closeTime": "05:35 PM",
+    "highlight": false,
+    "value": "179-70-389"
+  },
+  {
+    "order": 78,
+    "name": "SUPREME NIGHT",
+    "slug": "supreme-night",
+    "openTime": "08:45 PM",
+    "closeTime": "10:45 PM",
+    "highlight": false,
+    "value": "124-77-179"
+  },
+  {
+    "order": 79,
+    "name": "RADHA MUMBAI DAY",
+    "slug": "radha-mumbai-day",
+    "openTime": "01:35 PM",
+    "closeTime": "03:05 PM",
+    "highlight": false,
+    "value": "367-62-129"
+  },
+  {
+    "order": 80,
+    "name": "RADHA MUMBAI NIGHT",
+    "slug": "radha-mumbai-night",
+    "openTime": "08:35 PM",
+    "closeTime": "10:35 PM",
+    "highlight": false,
+    "value": "130-43-247"
+  },
+  {
+    "order": 81,
+    "name": "PARAS DAY",
+    "slug": "paras-day",
+    "openTime": "11:15 AM",
+    "closeTime": "12:15 PM",
+    "highlight": false,
+    "value": "136-0"
+  },
+  {
+    "order": 82,
+    "name": "PARAS NIGHT",
+    "slug": "paras-night",
+    "openTime": "07:50 PM",
+    "closeTime": "10:10 PM",
+    "highlight": false,
+    "value": "588-15-267"
+  },
+  {
+    "order": 83,
+    "name": "SRILAKSHMI",
+    "slug": "srilakshmi",
+    "openTime": "11:20 AM",
+    "closeTime": "12:20 PM",
+    "highlight": false,
+    "value": "370-0"
+  },
+  {
+    "order": 84,
+    "name": "BHAGYA DAY",
+    "slug": "bhagya-day",
+    "openTime": "12:20 PM",
+    "closeTime": "01:20 PM",
+    "highlight": false,
+    "value": "580-34-167"
+  },
+  {
+    "order": 85,
+    "name": "BHAGYA NIGHT",
+    "slug": "bhagya-night",
+    "openTime": "08:20 PM",
+    "closeTime": "09:20 PM",
+    "highlight": false,
+    "value": "567-86-150"
+  },
+  {
+    "order": 86,
+    "name": "WORLI MUMBAI DAY",
+    "slug": "worli-mumbai-day",
+    "openTime": "01:30 PM",
+    "closeTime": "02:30 PM",
+    "highlight": false,
+    "value": "270-90-370"
+  },
+  {
+    "order": 87,
+    "name": "MAIN MUMBAI RK",
+    "slug": "main-mumbai-rk",
+    "openTime": "09:30 PM",
+    "closeTime": "11:50 PM",
+    "highlight": false,
+    "value": "590-44-239"
+  },
+  {
+    "order": 88,
+    "name": "WORLI MUMBAI",
+    "slug": "worli-mumbai",
+    "openTime": "09:15 PM",
+    "closeTime": "11:10 PM",
+    "highlight": false,
+    "value": "890-77-223"
+  },
+  {
+    "order": 89,
+    "name": "SITA DAY",
+    "slug": "sita-day",
+    "openTime": "01:45 PM",
+    "closeTime": "02:45 PM",
+    "highlight": false,
+    "value": "358-62-237"
+  },
+  {
+    "order": 90,
+    "name": "COUNTRY BAZAR",
+    "slug": "country-bazar",
+    "openTime": "01:20 PM",
+    "closeTime": "02:20 PM",
+    "highlight": false,
+    "value": "115-72-246"
+  },
+  {
+    "order": 91,
+    "name": "AMAR BAZAR",
+    "slug": "amar-bazar",
+    "openTime": "11:15 AM",
+    "closeTime": "12:15 PM",
+    "highlight": false,
+    "value": "690-56-178"
+  },
+  {
+    "order": 92,
+    "name": "ROSE BAZAR DAY",
+    "slug": "rose-bazar-day",
+    "openTime": "02:30 PM",
+    "closeTime": "03:50 PM",
+    "highlight": false,
+    "value": "489-17-124"
+  },
+  {
+    "order": 93,
+    "name": "ROSE BAZAR NIGHT",
+    "slug": "rose-bazar-night",
+    "openTime": "10:00 PM",
+    "closeTime": "12:02 AM",
+    "highlight": false,
+    "value": "789-40-389"
+  },
+  {
+    "order": 94,
+    "name": "JANTA MORNING",
+    "slug": "janta-morning",
+    "openTime": "01:00 PM",
+    "closeTime": "02:00 PM",
+    "highlight": false,
+    "value": "124-76-123"
+  },
+  {
+    "order": 95,
+    "name": "CENTRAL BOMBAY",
+    "slug": "central-bombay",
+    "openTime": "03:15 PM",
+    "closeTime": "04:15 PM",
+    "highlight": false,
+    "value": "368-79-144"
+  },
+  {
+    "order": 96,
+    "name": "TEEN PATTI",
+    "slug": "teen-patti",
+    "openTime": "07:55 PM",
+    "closeTime": "08:55 PM",
+    "highlight": false,
+    "value": "289-97-359"
+  },
+  {
+    "order": 97,
+    "name": "DURGA NIGHT",
+    "slug": "durga-night",
+    "openTime": "10:30 PM",
+    "closeTime": "12:30 AM",
+    "highlight": false,
+    "value": "358-68-134"
+  },
+  {
+    "order": 98,
+    "name": "MAHADEVI",
+    "slug": "mahadevi",
+    "openTime": "04:30 PM",
+    "closeTime": "06:30 PM",
+    "highlight": false,
+    "value": "589-24-167"
+  },
+  {
+    "order": 99,
+    "name": "SUPER TIME",
+    "slug": "super-time",
+    "openTime": "12:55 PM",
+    "closeTime": "01:55 PM",
+    "highlight": false,
+    "value": "560-10-145"
+  },
+  {
+    "order": 100,
+    "name": "KAALI",
+    "slug": "kaali",
+    "openTime": "11:20 PM",
+    "closeTime": "01:35 AM",
+    "highlight": false,
+    "value": "670-36-240"
+  },
+  {
+    "order": 101,
+    "name": "MAIN MUMBAI NIGHT",
+    "slug": "main-mumbai-night",
+    "openTime": "09:00 PM",
+    "closeTime": "11:00 PM",
+    "highlight": false,
+    "value": "139-34-149"
+  },
+  {
+    "order": 102,
+    "name": "SITA NIGHT",
+    "slug": "sita-night",
+    "openTime": "06:45 PM",
+    "closeTime": "07:45 PM",
+    "highlight": false,
+    "value": "260-81-669"
+  },
+  {
+    "order": 103,
+    "name": "KAMAL MORNING",
+    "slug": "kamal-morning",
+    "openTime": "12:10 PM",
+    "closeTime": "01:10 PM",
+    "highlight": false,
+    "value": "224-86-367"
+  },
+  {
+    "order": 104,
+    "name": "KAMAL DAY",
+    "slug": "kamal-day",
+    "openTime": "03:40 PM",
+    "closeTime": "05:40 PM",
+    "highlight": false,
+    "value": "257-40-145"
+  },
+  {
+    "order": 105,
+    "name": "KAMAL NIGHT",
+    "slug": "kamal-night",
+    "openTime": "08:45 PM",
+    "closeTime": "10:45 PM",
+    "highlight": false,
+    "value": "269-7"
+  },
+  {
+    "order": 106,
+    "name": "KHATRI MORNING",
+    "slug": "khatri-morning",
+    "openTime": "11:00 AM",
+    "closeTime": "12:00 PM",
+    "highlight": false,
+    "value": "127-0"
+  },
+  {
+    "order": 107,
+    "name": "ANDHRA MORNING",
+    "slug": "andhra-morning",
+    "openTime": "10:40 AM",
+    "closeTime": "11:40 AM",
+    "highlight": false,
+    "value": "114-65-447"
+  },
+  {
+    "order": 108,
+    "name": "ANDHRA DAY",
+    "slug": "andhra-day",
+    "openTime": "03:35 PM",
+    "closeTime": "05:35 PM",
+    "highlight": false,
+    "value": "229-39-270"
+  },
+  {
+    "order": 109,
+    "name": "ANDHRA NIGHT",
+    "slug": "andhra-night",
+    "openTime": "08:45 PM",
+    "closeTime": "10:45 PM",
+    "highlight": false,
+    "value": "238-3"
+  },
+  {
+    "order": 110,
+    "name": "MAHADEVI MORNING",
+    "slug": "mahadevi-morning",
+    "openTime": "11:45 AM",
+    "closeTime": "12:45 PM",
+    "highlight": false,
+    "value": "135-9"
+  },
+  {
+    "order": 111,
+    "name": "MAHADEVI NIGHT",
+    "slug": "mahadevi-night",
+    "openTime": "07:50 PM",
+    "closeTime": "08:50 PM",
+    "highlight": false,
+    "value": "480-22-237"
+  },
+  {
+    "order": 112,
+    "name": "DELHI BAZAR",
+    "slug": "delhi-bazar",
+    "openTime": "08:10 PM",
+    "closeTime": "09:10 PM",
+    "highlight": false,
+    "value": "770-44-680"
+  },
+  {
+    "order": 113,
+    "name": "RATAN DAY",
+    "slug": "ratan-day",
+    "openTime": "03:55 PM",
+    "closeTime": "05:55 PM",
+    "highlight": false,
+    "value": "359-78-567"
+  },
+  {
+    "order": 114,
+    "name": "MAHALAXMI MORNING",
+    "slug": "mahalaxmi-morning",
+    "openTime": "11:30 AM",
+    "closeTime": "01:00 PM",
+    "highlight": false,
+    "value": "115-79-180"
+  },
+  {
+    "order": 115,
+    "name": "WORLI MUMBAI NIGHT",
+    "slug": "worli-mumbai-night",
+    "openTime": "09:45 PM",
+    "closeTime": "11:45 PM",
+    "highlight": false,
+    "value": "230-58-468"
+  },
+  {
+    "order": 116,
+    "name": "RAJDHANI DAY",
+    "slug": "rajdhani-day",
+    "openTime": "03:15 PM",
+    "closeTime": "05:15 PM",
+    "highlight": false,
+    "value": "249-58-279"
+  },
+  {
+    "order": 117,
+    "name": "TIME NIGHT",
+    "slug": "time-night",
+    "openTime": "08:15 PM",
+    "closeTime": "10:15 PM",
+    "highlight": false,
+    "value": "126-92-345"
+  },
+  {
+    "order": 118,
+    "name": "SUPER MATKA",
+    "slug": "super-matka",
+    "openTime": "05:00 PM",
+    "closeTime": "07:00 PM",
+    "highlight": false,
+    "value": "350-86-150"
+  },
+  {
+    "order": 119,
+    "name": "BOMBAY RAJSHREE DAY",
+    "slug": "bombay-rajshree-day",
+    "openTime": "01:15 PM",
+    "closeTime": "03:15 PM",
+    "highlight": false,
+    "value": "389-06-123"
+  },
+  {
+    "order": 120,
+    "name": "BOMBAY RAJSHREE NIGHT",
+    "slug": "bombay-rajshree-night",
+    "openTime": "09:00 PM",
+    "closeTime": "11:00 PM",
+    "highlight": false,
+    "value": "128-12-200"
+  },
+  {
+    "order": 121,
+    "name": "CB",
+    "slug": "cb",
+    "openTime": "02:15 PM",
+    "closeTime": "03:15 PM",
+    "highlight": false,
+    "value": "780-53-580"
+  },
+  {
+    "order": 122,
+    "name": "CHANDNI MORNING",
+    "slug": "chandni-morning",
+    "openTime": "11:05 AM",
+    "closeTime": "12:05 PM",
+    "highlight": false,
+    "value": "258-59-379"
+  },
+  {
+    "order": 123,
+    "name": "GUJRAT MORNING",
+    "slug": "gujrat-morning",
+    "openTime": "11:20 AM",
+    "closeTime": "12:20 PM",
+    "highlight": false,
+    "value": "227-1"
+  },
+  {
+    "order": 124,
+    "name": "GUJRAT NIGHT",
+    "slug": "gujrat-night",
+    "openTime": "07:45 PM",
+    "closeTime": "08:45 PM",
+    "highlight": false,
+    "value": "790-60-578"
+  },
+  {
+    "order": 125,
+    "name": "GOWA",
+    "slug": "gowa",
+    "openTime": "12:30 PM",
+    "closeTime": "02:20 PM",
+    "highlight": false,
+    "value": "123-69-180"
+  },
+  {
+    "order": 126,
+    "name": "RAKHI MORNING",
+    "slug": "rakhi-morning",
+    "openTime": "11:10 AM",
+    "closeTime": "12:10 PM",
+    "highlight": false,
+    "value": "588-1"
+  },
+  {
+    "order": 127,
+    "name": "RATNA MORNING",
+    "slug": "ratna-morning",
+    "openTime": "09:35 AM",
+    "closeTime": "10:30 AM",
+    "highlight": false,
+    "value": "133-79-900"
+  },
+  {
+    "order": 128,
+    "name": "GEETA MORNING",
+    "slug": "geeta-morning",
+    "openTime": "09:55 AM",
+    "closeTime": "10:55 AM",
+    "highlight": false,
+    "value": "459-88-990"
+  },
+  {
+    "order": 129,
+    "name": "RATNA DAY",
+    "slug": "ratna-day",
+    "openTime": "01:35 PM",
+    "closeTime": "02:35 PM",
+    "highlight": false,
+    "value": "234-90-334"
+  },
+  {
+    "order": 130,
+    "name": "RATNA NIGHT",
+    "slug": "ratna-night",
+    "openTime": "07:05 PM",
+    "closeTime": "08:05 PM",
+    "highlight": false,
+    "value": "566-77-467"
+  },
+  {
+    "order": 131,
+    "name": "TULSI MORNING",
+    "slug": "tulsi-morning",
+    "openTime": "10:20 AM",
+    "closeTime": "11:20 AM",
+    "highlight": false,
+    "value": "235-01-128"
+  },
+  {
+    "order": 132,
+    "name": "SRILAXMI DAY",
+    "slug": "srilaxmi-day",
+    "openTime": "01:45 PM",
+    "closeTime": "02:45 PM",
+    "highlight": false,
+    "value": "340-70-578"
+  },
+  {
+    "order": 133,
+    "name": "NTR MORNING",
+    "slug": "ntr-morning",
+    "openTime": "09:10 AM",
+    "closeTime": "10:10 AM",
+    "highlight": false,
+    "value": "588-15-357"
+  },
+  {
+    "order": 134,
+    "name": "NTR DAY",
+    "slug": "ntr-day",
+    "openTime": "05:00 PM",
+    "closeTime": "07:00 PM",
+    "highlight": false,
+    "value": "159-52-778"
+  },
+  {
+    "order": 135,
+    "name": "NTR NIGHT",
+    "slug": "ntr-night",
+    "openTime": "09:00 PM",
+    "closeTime": "11:00 PM",
+    "highlight": false,
+    "value": "113-55-348"
+  },
+  {
+    "order": 136,
+    "name": "MAYA BAZAR",
+    "slug": "maya-bazar",
+    "openTime": "10:20 AM",
+    "closeTime": "11:20 AM",
+    "highlight": false,
+    "value": "380-16-150"
+  },
+  {
+    "order": 137,
+    "name": "SUPER KING",
+    "slug": "super-king",
+    "openTime": "03:35 PM",
+    "closeTime": "05:35 PM",
+    "highlight": false,
+    "value": "237-20-460"
+  },
+  {
+    "order": 138,
+    "name": "SUPER KING NIGHT",
+    "slug": "super-king-night",
+    "openTime": "08:45 PM",
+    "closeTime": "10:45 PM",
+    "highlight": false,
+    "value": "360-9"
+  },
+  {
+    "order": 139,
+    "name": "MEENA BAZAR",
+    "slug": "meena-bazar",
+    "openTime": "09:00 PM",
+    "closeTime": "11:00 PM",
+    "highlight": false,
+    "value": "778-22-570"
+  },
+  {
+    "order": 140,
+    "name": "KALYAN KING",
+    "slug": "kalyan-king",
+    "openTime": "02:00 PM",
+    "closeTime": "04:00 PM",
+    "highlight": false,
+    "value": "136-16-123"
+  },
+  {
+    "order": 141,
+    "name": "SITARA BAZAR",
+    "slug": "sitara-bazar",
+    "openTime": "10:10 PM",
+    "closeTime": "11:45 PM",
+    "highlight": false,
+    "value": "279-87-359"
+  },
+  {
+    "order": 142,
+    "name": "MANGAL BAZAR",
+    "slug": "mangal-bazar",
+    "openTime": "10:10 PM",
+    "closeTime": "11:10 PM",
+    "highlight": false,
+    "value": "236-10-334"
+  },
+  {
+    "order": 143,
+    "name": "MANGAL MORNING",
+    "slug": "mangal-morning",
+    "openTime": "09:35 AM",
+    "closeTime": "10:35 AM",
+    "highlight": false,
+    "value": "778-27-160"
+  },
+  {
+    "order": 144,
+    "name": "MANGAL DAY",
+    "slug": "mangal-day",
+    "openTime": "04:05 PM",
+    "closeTime": "05:05 PM",
+    "highlight": false,
+    "value": "660-29-144"
+  },
+  {
+    "order": 145,
+    "name": "MANGAL NIGHT",
+    "slug": "mangal-night",
+    "openTime": "08:25 PM",
+    "closeTime": "09:25 PM",
+    "highlight": false,
+    "value": "118-09-135"
+  },
+  {
+    "order": 146,
+    "name": "GAMA MORNING",
+    "slug": "gama-morning",
+    "openTime": "10:10 AM",
+    "closeTime": "11:10 AM",
+    "highlight": false,
+    "value": "590-47-458"
+  },
+  {
+    "order": 147,
+    "name": "GAMA DAY",
+    "slug": "gama-day",
+    "openTime": "02:20 PM",
+    "closeTime": "03:20 PM",
+    "highlight": false,
+    "value": "556-68-134"
+  },
+  {
+    "order": 148,
+    "name": "GAMA NIGHT",
+    "slug": "gama-night",
+    "openTime": "07:20 PM",
+    "closeTime": "08:20 PM",
+    "highlight": false,
+    "value": "129-20-479"
+  },
+  {
+    "order": 149,
+    "name": "MILAN BAZAR MORNING",
+    "slug": "milan-bazar-morning",
+    "openTime": "10:40 AM",
+    "closeTime": "12:40 PM",
+    "highlight": false,
+    "value": "189-8"
+  },
+  {
+    "order": 150,
+    "name": "MILAN BAZAR DAY",
+    "slug": "milan-bazar-day",
+    "openTime": "01:30 PM",
+    "closeTime": "03:30 PM",
+    "highlight": false,
+    "value": "257-49-900"
+  },
+  {
+    "order": 151,
+    "name": "MILAN BAZAR NIGHT",
+    "slug": "milan-bazar-night",
+    "openTime": "08:30 PM",
+    "closeTime": "10:30 PM",
+    "highlight": false,
+    "value": "350-89-469"
+  },
+  {
+    "order": 152,
+    "name": "MAIN MILAN MORNING",
+    "slug": "main-milan-morning",
+    "openTime": "11:25 AM",
+    "closeTime": "12:25 PM",
+    "highlight": false,
+    "value": "345-22-228"
+  },
+  {
+    "order": 153,
+    "name": "MEENA MORNING",
+    "slug": "meena-morning",
+    "openTime": "11:30 AM",
+    "closeTime": "12:30 PM",
+    "highlight": false,
+    "value": "700-7"
+  },
+  {
+    "order": 154,
+    "name": "MAIN STAR",
+    "slug": "main-star",
+    "openTime": "09:35 PM",
+    "closeTime": "11:35 PM",
+    "highlight": false,
+    "value": "170-88-260"
+  },
+  {
+    "order": 155,
+    "name": "SUPREME BAZAR DAY",
+    "slug": "supreme-bazar-day",
+    "openTime": "01:35 PM",
+    "closeTime": "02:35 PM",
+    "highlight": false,
+    "value": "560-17-250"
+  },
+  {
+    "order": 156,
+    "name": "SUPREME BAZAR NIGHT",
+    "slug": "supreme-bazar-night",
+    "openTime": "06:50 PM",
+    "closeTime": "08:50 PM",
+    "highlight": false,
+    "value": "117-90-190"
+  },
+  {
+    "order": 157,
+    "name": "ANMOL",
+    "slug": "anmol",
+    "openTime": "11:25 AM",
+    "closeTime": "12:25 PM",
+    "highlight": false,
+    "value": "258-5"
+  },
+  {
+    "order": 158,
+    "name": "STANDARD BAZAR",
+    "slug": "standard-bazar",
+    "openTime": "11:00 AM",
+    "closeTime": "12:00 PM",
+    "highlight": false,
+    "value": "167-4"
+  },
+  {
+    "order": 159,
+    "name": "CITY BAZAR DAY",
+    "slug": "city-bazar-day",
+    "openTime": "02:30 PM",
+    "closeTime": "04:30 PM",
+    "highlight": false,
+    "value": "477-88-558"
+  },
+  {
+    "order": 160,
+    "name": "CITY BAZAR NIGHT",
+    "slug": "city-bazar-night",
+    "openTime": "08:30 PM",
+    "closeTime": "10:30 PM",
+    "highlight": false,
+    "value": "157-30-578"
+  },
+  {
+    "order": 161,
+    "name": "MAIN BAZAR NIGHT",
+    "slug": "main-bazar-night",
+    "openTime": "07:00 PM",
+    "closeTime": "08:00 PM",
+    "highlight": false,
+    "value": "146-15-780"
+  },
+  {
+    "order": 162,
+    "name": "SAMSKARA DAY",
+    "slug": "samskara-day",
+    "openTime": "10:00 AM",
+    "closeTime": "11:00 AM",
+    "highlight": false,
+    "value": "126-95-168"
+  },
+  {
+    "order": 163,
+    "name": "SAMSKARA NIGHT",
+    "slug": "samskara-night",
+    "openTime": "09:15 PM",
+    "closeTime": "11:15 PM",
+    "highlight": false,
+    "value": "226-00-190"
+  },
+  {
+    "order": 164,
+    "name": "THALAIVA MORNING",
+    "slug": "thalaiva-morning",
+    "openTime": "11:45 AM",
+    "closeTime": "12:45 PM",
+    "highlight": false,
+    "value": "136-0"
+  },
+  {
+    "order": 165,
+    "name": "THALAIVA NIGHT",
+    "slug": "thalaiva-night",
+    "openTime": "07:50 PM",
+    "closeTime": "08:50 PM",
+    "highlight": false,
+    "value": "339-55-799"
+  },
+  {
+    "order": 166,
+    "name": "THALAIVA",
+    "slug": "thalaiva",
+    "openTime": "04:30 PM",
+    "closeTime": "06:30 PM",
+    "highlight": false,
+    "value": "129-24-590"
+  },
+  {
+    "order": 167,
+    "name": "SITA MORNING",
+    "slug": "sita-morning",
+    "openTime": "09:45 AM",
+    "closeTime": "10:45 AM",
+    "highlight": false,
+    "value": "338-46-169"
+  },
+  {
+    "order": 168,
+    "name": "VAISHNAVI DAY",
+    "slug": "vaishnavi-day",
+    "openTime": "01:40 PM",
+    "closeTime": "02:40 PM",
+    "highlight": false,
+    "value": "170-89-469"
+  },
+  {
+    "order": 169,
+    "name": "ASHA BAZAR",
+    "slug": "asha-bazar",
+    "openTime": "11:15 AM",
+    "closeTime": "12:15 PM",
+    "highlight": false,
+    "value": "138-23-148"
+  },
+  {
+    "order": 170,
+    "name": "***-**-***",
+    "slug": "",
+    "openTime": "04:41 PM",
+    "closeTime": "04:41 PM",
+    "highlight": false,
+    "value": "***-**-***"
+  },
+  {
+    "order": 171,
+    "name": "RAJSHREE",
+    "slug": "rajshree",
+    "openTime": "11:15 AM",
+    "closeTime": "12:15 PM",
+    "highlight": false,
+    "value": "360-93-139"
+  },
+  {
+    "order": 172,
+    "name": "DAY JANTA",
+    "slug": "day-janta",
+    "openTime": "03:40 PM",
+    "closeTime": "05:40 PM",
+    "highlight": false,
+    "value": "289-90-136"
+  },
+  {
+    "order": 173,
+    "name": "NIGHT JANTA",
+    "slug": "night-janta",
+    "openTime": "08:35 PM",
+    "closeTime": "10:35 PM",
+    "highlight": false,
+    "value": "178-67-458"
+  },
+  {
+    "order": 174,
+    "name": "MATKA KING",
+    "slug": "matka-king",
+    "openTime": "01:00 PM",
+    "closeTime": "02:30 PM",
+    "highlight": false,
+    "value": "255-28-800"
+  },
+  {
+    "order": 175,
+    "name": "MATKA KING NIGHT",
+    "slug": "matka-king-night",
+    "openTime": "08:00 PM",
+    "closeTime": "10:00 PM",
+    "highlight": false,
+    "value": "125-80-145"
+  },
+  {
+    "order": 176,
+    "name": "SUBHODAYA",
+    "slug": "subhodaya",
+    "openTime": "09:00 AM",
+    "closeTime": "10:00 AM",
+    "highlight": true,
+    "value": "***-**-***"
+  },
+  {
+    "order": 177,
+    "name": "TRIVENI MORNING",
+    "slug": "triveni-morning",
+    "openTime": "10:05 AM",
+    "closeTime": "11:05 AM",
+    "highlight": true,
+    "value": "***-**-***"
+  },
+  {
+    "order": 178,
+    "name": "LOTUS MORNING",
+    "slug": "lotus-morning",
+    "openTime": "10:10 AM",
+    "closeTime": "11:10 AM",
+    "highlight": true,
+    "value": "***-**-***"
+  },
+  {
+    "order": 179,
+    "name": "BAHUBALI",
+    "slug": "bahubali",
+    "openTime": "10:15 AM",
+    "closeTime": "11:15 AM",
+    "highlight": true,
+    "value": "***-**-***"
+  },
+  {
+    "order": 180,
+    "name": "SWARN ANDHRA",
+    "slug": "swarn-andhra",
+    "openTime": "10:35 AM",
+    "closeTime": "11:35 AM",
+    "highlight": true,
+    "value": "***-**-***"
+  },
+  {
+    "order": 181,
+    "name": "MAHALAXMI",
+    "slug": "mahalaxmi",
+    "openTime": "10:55 AM",
+    "closeTime": "11:55 AM",
+    "highlight": true,
+    "value": "***-**-***"
+  },
+  {
+    "order": 182,
+    "name": "SITARANI MORNING",
+    "slug": "sitarani-morning",
+    "openTime": "11:00 AM",
+    "closeTime": "12:00 PM",
+    "highlight": true,
+    "value": "***-**-***"
+  },
+  {
+    "order": 183,
+    "name": "SITARA MORNING",
+    "slug": "sitara-morning",
+    "openTime": "11:20 AM",
+    "closeTime": "12:20 PM",
+    "highlight": true,
+    "value": "***-**-***"
+  },
+  {
+    "order": 184,
+    "name": "MADHYANA",
+    "slug": "madhyana",
+    "openTime": "01:25 PM",
+    "closeTime": "02:25 PM",
+    "highlight": true,
+    "value": "***-**-***"
+  },
+  {
+    "order": 185,
+    "name": "LOTUS DAY",
+    "slug": "lotus-day",
+    "openTime": "02:10 PM",
+    "closeTime": "03:10 PM",
+    "highlight": true,
+    "value": "***-**-***"
+  },
+  {
+    "order": 186,
+    "name": "SITARANI DAY",
+    "slug": "sitarani-day",
+    "openTime": "02:30 PM",
+    "closeTime": "03:30 PM",
+    "highlight": true,
+    "value": "***-**-***"
+  },
+  {
+    "order": 187,
+    "name": "NTR BAZAR",
+    "slug": "ntr-bazar",
+    "openTime": "02:55 PM",
+    "closeTime": "03:55 PM",
+    "highlight": true,
+    "value": "***-**-***"
+  },
+  {
+    "order": 188,
+    "name": "TRIVENI DAY",
+    "slug": "triveni-day",
+    "openTime": "03:00 PM",
+    "closeTime": "04:00 PM",
+    "highlight": true,
+    "value": "***-**-***"
+  },
+  {
+    "order": 189,
+    "name": "SWARN ANDHRA DAY",
+    "slug": "swarn-andhra-day",
+    "openTime": "03:30 PM",
+    "closeTime": "05:30 PM",
+    "highlight": true,
+    "value": "***-**-***"
+  },
+  {
+    "order": 190,
+    "name": "LEELA DAY",
+    "slug": "leela-day",
+    "openTime": "03:35 PM",
+    "closeTime": "05:35 PM",
+    "highlight": true,
+    "value": "***-**-***"
+  },
+  {
+    "order": 191,
+    "name": "PUSPA DAY",
+    "slug": "pushpa-day",
+    "openTime": "03:40 PM",
+    "closeTime": "05:40 PM",
+    "highlight": true,
+    "value": "***-**-***"
+  },
+  {
+    "order": 192,
+    "name": "SITARA DAY",
+    "slug": "sitara-day",
+    "openTime": "03:55 PM",
+    "closeTime": "04:55 PM",
+    "highlight": true,
+    "value": "***-**-***"
+  },
+  {
+    "order": 193,
+    "name": "SITARA",
+    "slug": "sitara",
+    "openTime": "04:30 PM",
+    "closeTime": "06:30 PM",
+    "highlight": true,
+    "value": "***-**-***"
+  },
+  {
+    "order": 194,
+    "name": "LOTUS NIGHT",
+    "slug": "lotus-night",
+    "openTime": "08:10 PM",
+    "closeTime": "09:10 PM",
+    "highlight": true,
+    "value": "***-**-***"
+  },
+  {
+    "order": 195,
+    "name": "SWARN ANDHRA NIGHT",
+    "slug": "swarn-andhra-night",
+    "openTime": "08:40 PM",
+    "closeTime": "10:40 PM",
+    "highlight": true,
+    "value": "***-**-***"
+  },
+  {
+    "order": 196,
+    "name": "PUSPA NIGHT",
+    "slug": "pushpa-night",
+    "openTime": "08:40 PM",
+    "closeTime": "10:40 PM",
+    "highlight": true,
+    "value": "***-**-***"
+  },
+  {
+    "order": 197,
+    "name": "LEELA NIGHT",
+    "slug": "leela-night",
+    "openTime": "08:45 PM",
+    "closeTime": "10:45 PM",
+    "highlight": true,
+    "value": "***-**-***"
+  },
+  {
+    "order": 198,
+    "name": "SHREEVALLI NIGHT",
+    "slug": "shreevalli-night",
+    "openTime": "08:45 PM",
+    "closeTime": "10:45 PM",
+    "highlight": true,
+    "value": "***-**-***"
+  },
+  {
+    "order": 199,
+    "name": "SITARA NIGHT",
+    "slug": "sitara-night",
+    "openTime": "09:00 PM",
+    "closeTime": "10:00 PM",
+    "highlight": true,
+    "value": "***-**-***"
+  },
+  {
+    "order": 200,
+    "name": "SITARANI NIGHT",
+    "slug": "sitarani-night",
+    "openTime": "09:55 PM",
+    "closeTime": "10:55 PM",
+    "highlight": true,
+    "value": "***-**-***"
+  },
+  {
+    "order": 201,
+    "name": "RAAT RANI",
+    "slug": "raat-rani",
+    "openTime": "10:15 PM",
+    "closeTime": "11:50 PM",
+    "highlight": true,
+    "value": "***-**-***"
+  }
+]
