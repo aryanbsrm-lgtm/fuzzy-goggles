@@ -4,19 +4,43 @@ import { KhabarlineStore } from '../khabarline/store.js';
 import { KhabarlineServer } from '../khabarline/server.js';
 import { ResultApiService } from '../services/resultApiService.js';
 import { DpbossScraperService } from '../services/dpbossScraper.js';
+import { loadConfig } from '../config.js';
 
-const port = parseInt(process.env.PORT || '8080', 10);
+let appConfig: any = null;
+try {
+  appConfig = loadConfig();
+} catch (e) {
+  appConfig = null;
+}
+
+const port = parseInt(process.env.PORT || String(appConfig?.khabarline?.port || 8080), 10);
 const dataDir = path.resolve(process.cwd(), 'data');
 if (!fs.existsSync(dataDir)) {
   fs.mkdirSync(dataDir, { recursive: true });
 }
 
+// Master Production Hash Key from config.json: 124f2c24975404e3384952b0ede054c63c4d5bcd1f1a29158d9583fc66deae85
+const defaultProductionHashKey = '124f2c24975404e3384952b0ede054c63c4d5bcd1f1a29158d9583fc66deae85';
+const hashKey =
+  process.env.API_HASH_KEY ||
+  appConfig?.api?.hashKey ||
+  defaultProductionHashKey;
+
+const allowedKeys = Array.from(
+  new Set([
+    hashKey,
+    defaultProductionHashKey,
+    'result_bot_secret_2026',
+    ...(appConfig?.api?.allowedHashKeys || []),
+  ])
+);
+
 const store = new KhabarlineStore();
 const apiService = new ResultApiService(
   {
     enabled: true,
-    hashKey: process.env.API_HASH_KEY || 'result_bot_secret_2026',
-    allowedHashKeys: [process.env.API_HASH_KEY || 'result_bot_secret_2026'],
+    hashKey,
+    allowedHashKeys: allowedKeys,
   },
   store
 );
@@ -25,8 +49,8 @@ const server = new KhabarlineServer(
   {
     enabled: true,
     port,
-    domain: process.env.DOMAIN || 'khabarline.site',
-    adminPassword: process.env.ADMIN_PASSWORD || 'admin',
+    domain: process.env.DOMAIN || appConfig?.khabarline?.domain || 'khabarline.site',
+    adminPassword: process.env.ADMIN_PASSWORD || appConfig?.khabarline?.adminPassword || ':Az|l)|J0NY|.cU:',
   },
   store,
   apiService
@@ -35,8 +59,11 @@ const server = new KhabarlineServer(
 // Connect real-time DPBoss scraper to keep local preview synchronized live with dpboss.boston
 const dpbossScraper = new DpbossScraperService({
   enabled: true,
-  url: process.env.DPBOSS_URL || 'https://dpboss.boston/',
-  pollIntervalSeconds: parseInt(process.env.DPBOSS_POLL_INTERVAL || '15', 10),
+  url: process.env.DPBOSS_URL || appConfig?.dpboss?.url || 'https://dpboss.boston/',
+  pollIntervalSeconds: parseInt(
+    process.env.DPBOSS_POLL_INTERVAL || String(appConfig?.dpboss?.pollIntervalSeconds || 15),
+    10
+  ),
   ownerId: 'local_preview_admin',
   autoVerifyOnUnverified: false,
 });
